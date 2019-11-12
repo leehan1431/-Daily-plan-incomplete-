@@ -1,6 +1,6 @@
 
 # Daily plan_Project
-## 프로젝트명 : Daily plan Clone (Momentumdash.com을 clone)
+## 프로젝트명 : 크롬 앱 , Daily plan (Momentumdash.com을 clone) 
 ## 팀원 : 이영한
 ## 작업기간 : 2019.11.07~2019.11.12(5일)
 
