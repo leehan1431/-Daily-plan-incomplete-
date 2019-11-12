@@ -1,8 +1,8 @@
 
 # Daily plan_Project
-:sparkles: 프로젝트명 : Daily plan Clone (Momentumdash.com을 clone)
-:sparkles: 팀원 : 이영한
-:sparkles: 작업기간 : 2019.11.07~2019.11.12(5일)
+## 프로젝트명 : Daily plan Clone (Momentumdash.com을 clone)
+## 팀원 : 이영한
+## 작업기간 : 2019.11.07~2019.11.12(5일)
 
 ## 사용기술
 
