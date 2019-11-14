@@ -13,6 +13,7 @@ body{
     cursor: pointer;
 }
 h1{
+    opacity: 0.7;
     margin: 0px;
     cursor: default;
 }
@@ -59,6 +60,7 @@ h1{
     right: 2%;
 }
 .js-weather{
+    opacity: 0.7;
     font-size: 15pt;
     color: aliceblue;
 }
@@ -99,13 +101,13 @@ h1{
     color:white;
 }
 .showing{
+    opacity: 0.7;
     cursor: default;
     display: block;
     color: white;
-    font-size: 30pt;
+    font-size: 40pt;
     margin: 0;
 }
-
 .js-toDoList{
     text-align: center;
     margin: 0;
@@ -137,6 +139,7 @@ span:hover{
     opacity: 0.4;
 }
 .foot{
+    opacity: 0.7;
     position: absolute;
     bottom: -5px;
     left: 2%;

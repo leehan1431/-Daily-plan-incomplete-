@@ -12,7 +12,7 @@ function paintImage(imgNumber){
 
 
 function genRandom(){
-    const number = Math.floor(Math.random()*11);
+    const number = Math.floor(Math.random()*10);
     return number;
 }
 
